@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DrCough</string>
+    <string name="action_settings">Settings</string>
+    <string name="recorder">المسجل</string>
+    <string name="recod_audio">تسجيل الصوت</string>
+    <string name="press_recod_audio">اصغط لبدأ التسجيل</string>
+    <string name="save_btn">حفظ</string>
+
+</resources>
